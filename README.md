@@ -1,4 +1,9 @@
-## Ready To Go with React
+## Ready To Go
 
-Set the position on "On" to launch the rocket !
-https://ready-to-go-mathildedehedin.netlify.app
+### Made with _React_
+
+##### Positionner les bouttons sur "On" pour avoir le feu vert !
+
+https://ready-togo.netlify.app
+
+  <img src="./picture.png" width="350" alt="Netflix movies">
