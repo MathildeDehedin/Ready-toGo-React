@@ -2,7 +2,7 @@
 
 ### Made with _React_
 
-##### Positionner les bouttons sur "On" pour avoir le feu vert !
+##### Positionner les boutons sur "On" pour avoir le feu vert !
 
 https://ready-togo.netlify.app
 
