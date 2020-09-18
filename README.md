@@ -1,6 +1,6 @@
 # Ready To Go
 
-Set the switches on to launch the rocket
+Turn on the switches to launch the rocket
 
 ### _Languages_ & _Packages_
 
