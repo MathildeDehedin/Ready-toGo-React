@@ -1,9 +1,13 @@
-## Ready To Go
+# Ready To Go
 
-### Made with _React_
+Set the switches on to launch the rocket
 
-##### Positionner les boutons sur "On" pour avoir le feu vert !
+### _Languages_ & _Packages_
 
-https://ready-togo.netlify.app
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
 
-  <img src="./picture.png" width="350" alt="picture">
+### _Deployment_
+
+[Netlify](https://ready-togo.netlify.app)
+
+  <img src="./src/assets/Ready.png" width="350" alt="Ready">
